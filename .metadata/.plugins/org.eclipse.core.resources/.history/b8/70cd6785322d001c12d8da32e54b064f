@@ -1,5 +1,0 @@
-package org.generation.BlogPessoal.blog.repository;
-
-public interface UsuarioRepository {
-
-}
